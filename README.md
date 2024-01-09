@@ -1,2 +1,3 @@
 # Efficiency-
-Short things up for fast Development.
+Shorten things up for fast Development
+Anyone can use
